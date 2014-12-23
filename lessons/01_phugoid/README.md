@@ -28,7 +28,7 @@ Optional: link to the earner's GitHub repository (or equivalent)  containing oth
 
 ###Category: 
 
-Higher education, graduate
+Higher education, 
 
 ###Tags: 
 
